@@ -1,0 +1,2 @@
+"# piedra-papel-tijera" 
+En este repositorio podemos encontrar una pequeña aplicacion, desarrollada en JavaScript, HTML5, y CSS3, la cual consiste en el clasico juego de Piedra Papel o Tijera. Espero que la disfruten!.
